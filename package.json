@@ -1,0 +1,25 @@
+{
+  "name": "data-no9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.1"
+  },
+  "keywords": [
+    "Mis",
+    "K"
+  ],
+  "author": "No2L",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jaconv": "^1.0.4",
+    "kuromoji": "^0.1.2",
+    "lodash": "^4.17.11",
+    "uid-safe": "^2.1.5"
+  }
+}
