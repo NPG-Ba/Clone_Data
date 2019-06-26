@@ -23,6 +23,7 @@ function readFileJsonQuestion(){
   }
   console.log('Nhánh Khung');
   console.log('Vi yêu nên vậy');
+  console.log('Khùng ngốc');
   ///
   return fileContent;
 }
