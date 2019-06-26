@@ -21,10 +21,13 @@ function readFileJsonQuestion(){
   if(isExistFileTEXT){
     fileContent = fs.readFileSync(questionTEXT, 'utf8').split('\r\n');
   }
+  console.log('Nhánh Khung');
+  console.log('Vi yêu nên vậy');
+  ///
   return fileContent;
 }
 function writeFileSyn(listDayAnalytis,listKeyword,question,day){
-  var y;
+  var y;s
   for(y = 0 ; y < listDayAnalytis.length; y+= 1){
     const day = listDayAnalytis[y];
     var i = 1;
