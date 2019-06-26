@@ -13,7 +13,7 @@ const pad = (n) => ('0' + (n)).slice(-2);
 const fmt = (now) => `${now.getFullYear()}${pad(now.getMonth()+1)}${pad(now.getDate())}`;
 const pathFile = `${INPUT}/EdmBzb6EOrnCLxcpB6YCLBYwgJhHBcso.json`;
 const questionTEXT = `${QUESTION}/input.txt`;
-///
+console.log('Nhánh master + Nhánh mylove');
 module.exports = {};
 function readFileJsonQuestion(){
   const isExistFileTEXT = fs.existsSync(questionTEXT);
