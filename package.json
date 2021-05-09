@@ -19,7 +19,7 @@
     "fs": "0.0.1-security",
     "jaconv": "^1.0.4",
     "kuromoji": "^0.1.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "uid-safe": "^2.1.5"
   }
 }
